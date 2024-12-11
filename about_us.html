@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/css/all.min.css" integrity="sha512-9xKTRVabjVeZmc+GUW8GgSmcREDunMM+Dt/GrzchfN8tkwHizc5RP4Ok/MXFFy5rIjJjzhndFScTceq5e6GvVQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" type="text/css" href="css/vendor.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Marcellus&display=swap"
+    rel="stylesheet">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg bg-light fs-6 p-3 navColor border-bottom align-items-center">
+      <div class="container-fluid">
+        <div class="row justify-content-between align-items-center w-100">
+
+          <div class="col-auto">
+            <a class="navbar-brand text-white" href="index.html">
+                <img src="images/logo.png" class="logo" alt="">
+            </a>
+          </div>
+
+          <div class="col-auto ms-5" style="margin: auto; font-size: 18px;">
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+              aria-controls="offcanvasNavbar">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+              aria-labelledby="offcanvasNavbarLabel">
+              <div class="offcanvas-header menuColor">
+                <h5 class="offcanvas-title text-light" id="offcanvasNavbarLabel">Menu</h5>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                  aria-label="Close"></button>
+              </div>
+
+              <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-end flex-grow-1 gap-1 gap-md-5 pe-3">
+                  <li class="nav-item dropdown">
+                    <a class="nav-link text-dark active" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link text-dark" href="about_us.html">About Us</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link text-dark" href="Gallery.html">Gallery</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-dark" href="paintings.html">Paintings</a>
+                    <ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Abstract paintings</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Landscape paintings</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Flower paintings</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Nature painting</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Figurative painting</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Religious Paintings</a>
+                      </li>
+                      <li>
+                        <hr>
+                        <a  href="index.html" class="dropdown-item item-anchor">Acrylic</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Canvas</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Paper</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">OHP sheet</a>
+                      </li>
+                      <li>
+                        <a href="index.html" class="dropdown-item item-anchor">Fabric</a>
+                      </li>
+                    </ul>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle text-dark" href="color.html">Color</a>
+                      <ul class="dropdown-menu list-unstyled" aria-labelledby="dropdownPages">
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Acrylic colour</a>
+                        </li>
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Ball point pen</a>
+                        </li>
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Charcoal</a>
+                        </li>
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Oil colour</a>
+                        </li>
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Water colour</a>
+                        </li>
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Poster colour</a>
+                        </li>
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Enamel colour</a>
+                        </li>
+                        <li>
+                          <a href="index.html" class="dropdown-item item-anchor">Ink colour</a>
+                        </li>
+                      </ul>
+                      <li class="nav-item">
+                        <a class="nav-link text-dark" href="contact.html">Contact</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link text-dark" href="map.html">Map</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link text-dark" href="faqs.html">FAQs</a>
+                      </li>
+              </div>
+            </div>
+          </div>
+
+      </div>
+    </nav>
+
+
+  <section class="collection bg-light position-relative py-5">
+    <div class="container">
+      <div class="row">
+        <div class="title-xlarge text-uppercase txt-fx domino">Collection</div>
+        <div class="collection-item d-flex flex-wrap my-5">
+          <div class="col-md-6 column-container">
+            <div class="image-holder">
+              <img src="images/Abstract/abs-pant-1.jpeg" alt="collection" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-md-6 column-container bg-white">
+            <div class="collection-content p-5 m-0 m-md-5">
+              <h3 class="element-title text-uppercase text-md-center">Color Splash</h3>
+              <p>Color splash paintings are a vibrant and dynamic form of abstract art, characterized by spontaneous or controlled splashes, drips, or splatters of paint in various colors. This technique, often associated with Abstract Expressionism, emphasizes emotional expression and the energy of the painting process rather than realistic representation. The splashes of color create a sense of movement and chaos, evoking feelings of freedom, excitement, or tension. Artists like Jackson Pollock are famous for using this method to convey raw emotion through the act of painting itself.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer id="footer" class="mt-5 navColor">
+    <div class="container">
+      <div class="row d-flex flex-wrap justify-content-between py-5">
+        <div class="col-md-3 col-sm-6">
+          <div class="footer-menu footer-menu-001">
+            <div class="footer-intro mb-3">
+              <a href="index.html">
+                <img src="images/logo.png" class="logo2" alt="logo">
+              </a>
+            </div>
+            <p class="text-light">Color Splash is a visual effect where one or more colors stand out against a largely monochrome or desaturated background.</p>
+            <div class="social-links">
+              <ul class="list-unstyled d-flex flex-wrap gap-3">
+                <li>
+                  <a href="#" class="text-secondary">
+                    <svg width="24" height="24" viewBox="0 0 24 24">
+                      <use xlink:href="#facebook"></use>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="text-secondary">
+                    <svg width="24" height="24" viewBox="0 0 24 24">
+                      <use xlink:href="#twitter"></use>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="text-secondary">
+                    <svg width="24" height="24" viewBox="0 0 24 24">
+                      <use xlink:href="#youtube"></use>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="text-secondary">
+                    <svg width="24" height="24" viewBox="0 0 24 24">
+                      <use xlink:href="#pinterest"></use>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="text-secondary">
+                    <svg width="24" height="24" viewBox="0 0 24 24">
+                      <use xlink:href="#instagram"></use>
+                    </svg>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <div class="footer-menu footer-menu-002">
+            <h5 class="widget-title text-uppercase mb-4" style="font-weight: bold;">Quick Links</h5>
+            <ul class="menu-list list-unstyled text-uppercase border-animation-left fs-6">
+              <li class="menu-item">
+                <a href="index.html" class="item-anchor">Home</a>
+              </li>
+              <li class="menu-item">
+                <a href="about_us.html" class="item-anchor">About</a>
+              </li>
+              <li class="menu-item">
+                <a href="contact.html" class="item-anchor">Contact</a>
+              </li>
+              <li class="menu-item">
+                <a href="Gallery.html" class="item-anchor">Gallery</a>
+              </li>
+              <li class="menu-item">
+                <a href="paintings.html" class="item-anchor">Paintings</a>
+              </li>
+              <li class="menu-item">
+                <a href="color.html" class="item-anchor">Color</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <div class="footer-menu footer-menu-003">
+            <h5 class="widget-title text-uppercase mb-4" style="font-weight: bold;">Help & Info</h5>
+            <ul class="menu-list list-unstyled text-uppercase border-animation-left fs-6">
+              <li class="menu-item">
+                <a href="#" class="item-anchor">Track Your Order</a>
+              </li>
+              <li class="menu-item">
+                <a href="#" class="item-anchor">Returns + Exchanges</a>
+              </li>
+              <li class="menu-item">
+                <a href="#" class="item-anchor">Shipping + Delivery</a>
+              </li>
+              <li class="menu-item">
+                <a href="contact.html" class="item-anchor">Contact Us</a>
+              </li>
+              <li class="menu-item">
+                <a href="#" class="item-anchor">Find us easy</a>
+              </li>
+              <li class="menu-item">
+                <a href="faqs.html" class="item-anchor">Faqs</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <div class="footer-menu footer-menu-004 border-animation-left">
+            <h5 class="widget-title text-uppercase mb-4" style="font-weight: bold;">Contact Us</h5>
+            <p class="text-light">Do you have any questions or suggestions? <a href="mailto:contact@yourcompany.com"
+                class="item-anchor">contact@yourcompany.com</a></p>
+            <p class="text-light">Do you need support? Give us a call. <a href="tel:+43 720 11 52 78" class="item-anchor">+92 3162691250</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/SmoothScroll.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+  <script src="js/script.min.js"></script>
+</body>
+</html>

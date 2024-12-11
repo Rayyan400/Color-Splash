@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Abstract painting 1",
+        "price": "$200",
+        "image": "images/Abstract/abs-pant-1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Abstract painting 2",
+        "price": "$200",
+        "image": "images/Abstract/abs-pant-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Abstract painting 3",
+        "price": "$200",
+        "image": "images/Abstract/abs-pant-3.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Landscape painting 1",
+        "price": "$200",
+        "image": "images/Landscape/land-canv-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Landscape painting 2",
+        "price": "$200",
+        "image": "images/Landscape/land-acrylic-2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Landscape painting 3",
+        "price": "$200",
+        "image": "images/Landscape/land-pant-3.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Flower painting 1",
+        "price": "$200",
+        "image": "images/Flower/Flow-pant-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Flower painting 2",
+        "price": "$200",
+        "image": "images/Flower/Flow-pant-2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Flower painting 3",
+        "price": "$200",
+        "image": "images/Flower/Flow-pant-3.jpg"
+    },
+    
+    {
+        "id": 10,
+        "name": "Nature painting 1",
+        "price": "$200",
+        "image": "images/Nature/natu-canv-1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Nature painting 2",
+        "price": "$200",
+        "image": "images/Nature/natu-pant-2.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Nature painting 3",
+        "price": "$200",
+        "image": "images/Nature/natu-pant-3.jpg"
+    },
+
+    {
+        "id": 13,
+        "name": "Figurative painting 1",
+        "price": "$200",
+        "image": "images/Figurative/figur-pant-1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Figurative painting 2",
+        "price": "$200",
+        "image": "images/Figurative/figur-pant-2.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Figurative painting 3",
+        "price": "$200",
+        "image": "images/Figurative/figur-pant-3.jpg"
+    },
+
+    {
+        "id": 16,
+        "name": "Religious Painting 1",
+        "price": "$200",
+        "image": "images/Religious/relag-pant-1.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Religious Painting 2",
+        "price": "$200",
+        "image": "images/Religious/relag-pant-2.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Religious Painting 3",
+        "price": "$200",
+        "image": "images/Religious/relag-pant-3.jpg"
+    },
+
+    {
+        "id": 19,
+        "name": "Acrylic 1",
+        "price": "$200",
+        "image": "images/acrylic/paper-acrylic-1.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Acrylic 2",
+        "price": "$200",
+        "image": "images/acrylic/land-acrylic-2.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Acrylic 3",
+        "price": "$200",
+        "image": "images/acrylic/OHP-acrylic-3.jpg"
+    },
+
+    {
+        "id": 22,
+        "name": "Canvas 1",
+        "price": "$200",
+        "image": "images/canvas/land-canv-1.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Canvas 2",
+        "price": "$200",
+        "image": "images/canvas/canv-2.jpeg"
+    },
+    {
+        "id": 24,
+        "name": "Canvas 3",
+        "price": "$200",
+        "image": "images/canvas/natu-canv-1.jpg"
+    },
+
+    {
+        "id": 25,
+        "name": "Paper 1",
+        "price": "$200",
+        "image": "images/paper/paper-acrylic-1.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Paper 2",
+        "price": "$200",
+        "image": "images/paper/paper-2.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Paper 3",
+        "price": "$200",
+        "image": "images/paper/paper-ball-3.jpg"
+    },
+
+    {
+        "id": 28,
+        "name": "OHP sheet 1",
+        "price": "$200",
+        "image": "images/OHP sheet/OHP-1.jpg"
+    },
+    {
+        "id": 29,
+        "name": "OHP sheet 2",
+        "price": "$200",
+        "image": "images/OHP sheet/OHP-2.jpg"
+    },
+    {
+        "id": 30,
+        "name": "OHP sheet 3",
+        "price": "$200",
+        "image": "images/OHP sheet/OHP-acrylic-3.jpg"
+    },
+
+    {
+        "id": 31,
+        "name": "Fabric 1",
+        "price": "$200",
+        "image": "images/Fabric/fabric-1.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Fabric 2",
+        "price": "$200",
+        "image": "images/Fabric/fabric-2.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Fabric 3",
+        "price": "$200",
+        "image": "images/Fabric/fabric-3.jpg"
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "name": "Acrylic Color 1",
+        "price": "$200",
+        "image": "images/Acrylic colour/acrylic color.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Acrylic Color 2",
+        "price": "$200",
+        "image": "images/Acrylic colour/acrylic color-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Acrylic Color 3",
+        "price": "$200",
+        "image": "images/Acrylic colour/acrylic color-3.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Ball Pen Color 1",
+        "price": "$200",
+        "image": "images/Ball point pen/ballPen-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ball Pen Color 2",
+        "price": "$200",
+        "image": "images/Ball point pen/ballPen-2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ball Pen Color 3",
+        "price": "$200",
+        "image": "images/Ball point pen/ballPen-3.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Charcoal Color 1",
+        "price": "$200",
+        "image": "images/Charcoal/Charcoal-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Charcoal Color 2",
+        "price": "$200",
+        "image": "images/Charcoal/Charcoal-2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Charcoal Color 3",
+        "price": "$200",
+        "image": "images/Charcoal/Charcoal-3.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Oil Color 1",
+        "price": "$200",
+        "image": "images/Oil colour/oil-1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Oil Color 2",
+        "price": "$200",
+        "image": "images/Oil colour/oil-2.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Oil Color 3",
+        "price": "$200",
+        "image": "images/Oil colour/oil-3.jpg"
+    },
+
+    {
+        "id": 13,
+        "name": "Water Color 1",
+        "price": "$200",
+        "image": "images/Water color/water-1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Water Color 2",
+        "price": "$200",
+        "image": "images/Water color/water-2.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Water Color 3",
+        "price": "$200",
+        "image": "images/Water color/water-3.jpg"
+    },
+
+    {
+        "id": 16,
+        "name": "Poster Color 1",
+        "price": "$200",
+        "image": "images/Poster color/poster-1.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Poster Color 2",
+        "price": "$200",
+        "image": "images/Poster color/poster-2.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Poster Color 3",
+        "price": "$200",
+        "image": "images/Poster color/poster-3.jpg"
+    },
+
+    {
+        "id": 19,
+        "name": "Enamel Color 1",
+        "price": "$200",
+        "image": "images/Enamel colour/Enamel colour-1.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Enamel Color 2",
+        "price": "$200",
+        "image": "images/Enamel colour/Enamel colour-2.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Enamel Color 3",
+        "price": "$200",
+        "image": "images/Enamel colour/Enamel colour-3.jpg"
+    },
+
+    {
+        "id": 22,
+        "name": "Ink Color 1",
+        "price": "$200",
+        "image": "images/Ink colour/Ink colour-1.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Ink Color 2",
+        "price": "$200",
+        "image": "images/Ink colour/Ink colour-2.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Ink Color 3",
+        "price": "$200",
+        "image": "images/Ink colour/Ink colour-3.jpg"
+    }
+]
